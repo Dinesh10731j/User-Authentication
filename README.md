@@ -1,4 +1,4 @@
-# Xerox User Authentication
+#  User Authentication
 
 This repository contains a simple user authentication system using Express, MongoDB, and a basic HTML/CSS/JS frontend.
 
