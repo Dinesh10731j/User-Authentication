@@ -11,7 +11,7 @@ The project consists of a signup form where users can enter their username and p
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Xerox-User-Authentication.git
+    git clone https://github.com/your-username/User-Authentication.git
     ```
 
 2. Install dependencies:
